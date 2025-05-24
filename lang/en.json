@@ -1,0 +1,30 @@
+{
+  "app": {
+    "title": "My Application",
+    "welcome": "Welcome to the app!",
+    "description": "This is a sample internationalized app"
+  },
+  "menu": {
+    "home": "Home",
+    "about": "About Us",
+    "contact": "Contact",
+    "settings": {
+      "title": "Settings",
+      "language": "Language",
+      "theme": "Theme"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "username": "Username",
+      "password": "Password",
+      "button": "Sign In"
+    },
+    "logout": "Log Out"
+  },
+  "errors": {
+    "network": "Network error. Please try again.",
+    "404": "Page not found"
+  }
+}
