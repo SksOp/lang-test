@@ -24,8 +24,8 @@
     "logout": "लॉग आउट"
   },
   "errors": {
+    "404": "पृष्ठ नहीं मिला",
     "network": "नेटवर्क त्रुटि। कृपया पुनः प्रयास करें।",
-    "404": "पृष्ठ नहीं मिला"
-    "description":"Got an error"
+    "description": "Got an error"
   }
 }
